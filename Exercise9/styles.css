@@ -1,0 +1,62 @@
+aside {
+    background-color: #2980B9, #154260, #9FCCEA #EAF4FA;
+}
+html {
+    background-color: #EAF4FA;
+    font-family: Georgio, serif;
+    text-align: center;
+    
+}
+
+
+
+h1 {
+    color: #154260;
+    display: inline-block;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 25px;
+    border-color: #154260;
+    text-align: center;
+    font-size: 5rem;
+    margin: 20px;
+    padding: 6px;
+}
+
+h2 {
+    color: #2980b9;
+    font-size: 3rem;
+    margin: 60px;
+}
+
+p {
+    color: #154260;
+    font-size: 20px;
+    margin: 60px;
+}
+
+h3 {
+    color: #154260;
+    font-size: 2.5rem;
+}
+
+footer {
+    margin-top: 100px;
+    color: #eaf4fa;
+    background-color: #154260;
+    height: 70px;
+    text-align: center;
+}
+
+a {
+   text-decoration: none;
+   margin-left: 12px;
+   margin-right: 12px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+}
